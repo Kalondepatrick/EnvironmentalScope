@@ -1,7 +1,4 @@
 
-<style>
-    html,
-    body,
 
     #viewDiv {
         position: absolute;
@@ -43,6 +40,4 @@
         font-weight: bolder;
       }	  
 	  
-  </style>
-
-  <link rel="stylesheet" href="https://js.arcgis.com/4.19/esri/themes/light/main.css">
+ 
