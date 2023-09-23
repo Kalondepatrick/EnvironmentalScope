@@ -30,7 +30,7 @@ _INSTRUCTIONS: Complete all required deliverable sections below._
 
 ### The issue we are hoping to solve
 
-REPLACE THIS SENTENCE with a short description, 2-3 sentences in length, of the specific sustainability problem your solution is meant to address.
+Carbon offsetting through tree planting is a practical and promising way for mitigate climate change. There are numerous tree planting initiatives, most of which are barely monitored in a transparent way. 
 
 ### How our technology solution can help
 
