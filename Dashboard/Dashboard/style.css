@@ -1,0 +1,43 @@
+
+
+    #viewDiv {
+        position: absolute;
+        padding: 0;
+        margin: 0;
+        height: 100%;
+        width: 100%;
+    }
+
+    #SliderDiv {
+        position: absolute; 
+        left: 100px;
+        right: 100px;
+        bottom: 30px;
+      }
+    #title {
+        position: absolute;
+        height: 2.7%;
+        width: 100%;
+        justify-content: space-between;
+        color: #f8f8f8;
+        background: #464646;
+        z-index: 1;
+        overflow: hidden;
+        font-size: 20px;
+        text-align: center;
+        font-family: Calibri;
+        font-weight: bold;
+      }
+	  
+    #infoDiv {  
+	height: 200px;
+        padding: 10px;
+        width: 280px;
+      }
+    #infoDiv span {  
+	color: #f9c653;
+        font-size: 12pt;
+        font-weight: bolder;
+      }	  
+	  
+ 
