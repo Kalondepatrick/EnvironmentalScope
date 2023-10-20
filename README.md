@@ -34,7 +34,7 @@ Carbon offsetting through tree planting is a practical and promising way for mit
 
 ### How our technology solution can help
 
-REPLACE THIS SENTENCE with a short description of your team's solution, in about 10 words.
+Provide a transparent and verifiable solution to enable monitoring of carbon offsetting investments.
 
 ### Our idea
 
